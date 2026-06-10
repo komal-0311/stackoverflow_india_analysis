@@ -36,8 +36,14 @@ useful for anyone building a tech career in India.
 - Seaborn
 - Jupyter Notebook
 
+## Dataset
+- Source: Stack Overflow Annual Developer Survey 2024
+- Platform: Kaggle
+- Download: https://www.kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024
+- Total Responses: 65,437
+- Indian Developers: 4,231**
+
 ## Author
 Komal
 Data Science Student
-GitHub: [your github link]
-LinkedIn: [your linkedin link]
+GitHub:  https://github.com/komal-0311
