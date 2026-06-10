@@ -44,6 +44,9 @@ useful for anyone building a tech career in India.
 - Indian Developers: 4,231**
 
 ## Author
-Komal
+
+**Komal**
+
 Data Science Student
-GitHub:  https://github.com/komal-0311
+
+GitHub: https://github.com/komal-0311
