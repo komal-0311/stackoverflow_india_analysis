@@ -7,12 +7,6 @@ developers earn higher salaries. Instead of global trends, this
 focuses specifically on Indian developers — making it directly 
 useful for anyone building a tech career in India.
 
-## Dataset
-- Source: Stack Overflow Annual Developer Survey 2024
-- Platform: Kaggle
-- Total Responses: 65,437
-- Indian Developers: 4,231
-- Full-time Employed Indians with Salary: 809
 
 ## What I Analyzed
 1. Which programming languages do highest paid Indian developers use?
@@ -41,7 +35,7 @@ useful for anyone building a tech career in India.
 - Platform: Kaggle
 - Download: https://www.kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024
 - Total Responses: 65,437
-- Indian Developers: 4,231**
+- Indian Developers: 4,231
 
 ## Author
 
